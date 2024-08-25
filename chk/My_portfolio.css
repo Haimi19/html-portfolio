@@ -1,0 +1,167 @@
+
+body{
+    background-color: rgb(127, 132, 133);
+}
+.Name{
+    background-color: rgb(0, 0, 0);
+    color: blueviolet;
+    border: none;
+    height: 30px;
+    width: 150px;
+
+    margin-right: 100px;
+    font-weight: bold;
+    font-size: 30px;
+}
+.portfolio_button:hover{
+    color: rgb(252, 228, 17);
+}
+.service:hover{
+    color: rgb(252, 228, 17);
+}
+.expiriance:hover{
+    color: rgb(252, 228, 17);
+}
+.contact_me:hover{
+    color: rgb(252, 228, 17);
+}
+.portfolio_button{
+    
+    color: white;
+    border: none;
+    height: 30px;
+    width: 100px;
+    margin-right: 30px;
+    cursor: pointer;
+}
+.service{
+    
+    color: white;
+    border: none;
+    height: 30px;
+    width: 100px;
+    margin-right: 30px;
+    cursor: pointer;
+}
+.expiriance{
+    
+    color: white;
+    border: none;
+    height: 30px;
+    width: 100px;
+    margin-right: 30px;
+    cursor: pointer;
+}
+.contact_me{
+    background-color: white;
+    color: black;
+    border: none;
+    height: 50px;
+    width: 100px;
+    border-radius: 10px;
+    cursor: pointer;
+    margin-left: 50px;
+    padding-right: 10px;
+    padding-left: 10px;
+}
+.hi_text{
+    margin-top: 20px;
+    color: rgb(39, 3, 122);
+    
+    margin-bottom: 0;
+    height: 20px;
+    font-weight: bold;
+    
+    
+
+
+
+}
+
+.intro_me{
+    color: rgb(39, 3, 122);
+
+    
+    margin-top: 0;
+}
+.discribtion{
+
+    width: 500px;
+
+}
+.my_pic{
+    height:200px;
+    width:200px;
+    border-radius: 100px;
+    display: block;
+    margin-top: 40px;
+    margin-left: 30px;
+}
+.hire{
+    background-color: rgb(25, 25, 78);
+    color: white;
+    border: none;
+    height: 30px;
+    width: 100px;
+    border-radius: 20px;
+    cursor: pointer;
+    margin-top: 10px;
+}
+.exp{
+    background-color: rgb(25, 25, 78);
+    color: white;
+    border: none;
+    height: 30px;
+    width: 100px;
+    border-radius: 20px;
+    cursor: pointer;
+    margin-bottom: 10px;
+}
+.exp:hover {
+    background-color: blueviolet;
+    color:aqua;
+}
+.hire:hover {
+    background-color: blueviolet;
+    color:aqua;
+}
+.header{
+    background-color: black;
+    position: 0;
+    top: o;
+    left: 0;
+    padding-bottom: 10px;
+    min-width: 1000px;
+}
+
+.aboutme{
+    background-color: rgb(0, 0, 0);
+    color: blueviolet;
+    border: none;
+    height: 30px;
+    width: 150px;
+
+    margin-left: 100px;
+    font-weight: bold;
+    font-size: 30px;
+    display: block;
+}
+
+.section1{
+    margin-top:20px;
+    width:95%;  
+    align-content: space-between;
+    background-color: aliceblue;
+}
+.div1{
+    float: left;
+    margin-left: 20px;
+    padding-left: 30px;
+    width: 70%;
+}
+.div2{
+    background-color: aliceblue;
+    float: left;
+    -webkit-text-stroke-width: 30%;
+    padding-bottom: 20px;
+}
